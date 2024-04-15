@@ -1,0 +1,10 @@
+...........................................
+.   X     XX                  X           .
+.S  X     XXXX     XXX   XX   X   X       .
+.   X      X          XXX X   X   X       .
+.   X   X  XXXXXXX        X       X       .
+.   X   X  X              XXXXXXXXX    XXX.
+.       X        XXX          X          X.
+.       X        XXX          XXXXXXXXX   .
+.       X        XXX          X  G        .
+...........................................
