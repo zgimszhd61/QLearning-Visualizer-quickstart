@@ -13,7 +13,7 @@ Untrained Agent Exploration | Trained Agent Navigation
 You can build your own map as long as it fits into a rectangular shape. Alternatively, you can experiment with the few maps included in this repository. Start the simulation with the following commands:
 
 ```
-python rlearn.py <name of map>     Example : python rlearn.py cliff.txt
+python rlearn.py <name of map>     Example : python rlearn.py advance_cliff.txt
 ```
 
 You can press `space` to skip a few training generations and `esc` to exit the simulation.
