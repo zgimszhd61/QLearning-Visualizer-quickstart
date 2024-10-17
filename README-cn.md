@@ -13,7 +13,7 @@ Q学习是一种在机器学习中使用的强化学习技术。Q学习的目标
 您可以创建适合矩形形状的自定义地图。或者，您也可以试验本仓库中提供的几张地图。通过以下命令启动模拟：
 
 ```
-python rlearn.py <地图名称>    示例：python rlearn.py cliff.txt
+python rlearn.py <地图名称>    示例：python rlearn.py advance_cliff.txt
 ```
 
 您可以按下 `space` 键跳过几个训练世代，按 `esc` 键退出模拟。
